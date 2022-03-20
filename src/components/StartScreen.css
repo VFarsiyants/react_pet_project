@@ -1,0 +1,38 @@
+.start-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.start-screen--header {
+    margin-bottom: 7px;
+    font-family: 'Karla';
+    font-size: 31.25px;
+    line-height: 37px;
+    color: #293264;
+    text-align: center;
+}
+
+.start-screen--description {
+    margin-bottom: 29px;
+    font-size: 16px;
+    line-height: 19px;
+    color: #293264;
+    text-align: center;
+    max-width: 400px;
+}
+
+
+.start-screen--button {
+    width: 193px;
+    height: 52px;
+    background: #4D5B9E;
+    border: none;
+    border-radius: 15px;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #F5F7FB;
+    cursor: pointer;
+}
