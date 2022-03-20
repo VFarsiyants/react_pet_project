@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_pet_project/static/css/main.f673838d.css",
+    "main.js": "/react_pet_project/static/js/main.3dc8b5b7.js",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/react_pet_project/static/media/Inter-VariableFont_slnt,wght.b4c30855aff392d7e8dc.ttf",
+    "static/media/Karla-VariableFont_wght.ttf": "/react_pet_project/static/media/Karla-VariableFont_wght.516621e72b5c4bcbabec.ttf",
+    "index.html": "/react_pet_project/index.html",
+    "main.f673838d.css.map": "/react_pet_project/static/css/main.f673838d.css.map",
+    "main.3dc8b5b7.js.map": "/react_pet_project/static/js/main.3dc8b5b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f673838d.css",
+    "static/js/main.3dc8b5b7.js"
+  ]
+}
